@@ -1,0 +1,22 @@
+{
+  "name": "oblique-strategies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronmarruk/oblique-strategies.git"
+  },
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronmarruk/oblique-strategies/issues"
+  },
+  "homepage": "https://github.com/aaronmarruk/oblique-strategies#readme"
+}
